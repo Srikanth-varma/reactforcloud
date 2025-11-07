@@ -15,7 +15,7 @@ function App() {
         fontFamily: "Arial, sans-serif",
       }}
     >
-      <h2>jenikins updated</h2>
+      <h2>jenkins trigers updated</h2>
       <h1 style={{ color: "#0078D7" }}>React App Deployment Test</h1>
       <p style={{ color: "red", fontSize: "20px" }}>
         Hello, World! — Deployed by <strong>Srikanth</strong>
