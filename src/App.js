@@ -14,7 +14,8 @@ function App() {
         marginTop: "100px",
         fontFamily: "Arial, sans-serif",
       }}
-    >
+    >      <h1>1</h1>
+
       <h2>deployed automatically with jenkins pipeline</h2>
       <h1 style={{ color: "#0078D7" }}>React App Deployment Test</h1>
       <p style={{ color: "red", fontSize: "20px" }}>
